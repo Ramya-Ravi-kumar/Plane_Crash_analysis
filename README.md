@@ -20,8 +20,12 @@ containing 5268 airplane crashes with fatalities of 105k is used for this projec
 *Matplotlib
 *Seaborn
 
-*__Sample Analysis outputs__*<br/>
+*__Sample Analysis outputs__:*<br/>
 Pie chart:<br/><a href="https://imgbb.com/"><img src="https://i.ibb.co/xDgLpBX/pie.png" alt="pie" border="0"></a><br/><br/>
 Violin plot:<br/><a href="https://ibb.co/LpfZRkX"><img src="https://i.ibb.co/zfw4xnT/violin.png" alt="violin" border="0"></a><br/><br/>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/VCRJnWJ/kde.png" alt="kde" border="0"></a>
-<a href="https://ibb.co/2tnpqXg"><img src="https://i.ibb.co/bBWG1pz/boxplot.png" alt="boxplot" border="0"></a>
+KDE Plot:</br><a href="https://imgbb.com/"><img src="https://i.ibb.co/VCRJnWJ/kde.png" alt="kde" border="0"></a><br/><br/>
+Box Plot:</br><a href="https://ibb.co/2tnpqXg"><img src="https://i.ibb.co/bBWG1pz/boxplot.png" alt="boxplot" border="0"></a><br/><br/>
+HexBin:</br><a href="https://imgbb.com/"><img src="https://i.ibb.co/K51WqGm/hexbin.png" alt="hexbin" border="0"></a></br></br>
+
+*__Conclusions__*</br>
+This analysis was done with the passenger's safety in mind.Having analyzed the fatality count per year and its causes,a rough idea regarding the pattern of the plane crash would be given to the airplane authority helping them to avoid circumstances which would result in the same.And also take appropriate measures ,if occured.
