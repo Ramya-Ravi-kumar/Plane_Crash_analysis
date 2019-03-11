@@ -20,7 +20,8 @@ containing 5268 airplane crashes with fatalities of 105k is used for this projec
 *Matplotlib
 *Seaborn
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/xDgLpBX/pie.png" alt="pie" border="0"></a>
-<a href="https://ibb.co/LpfZRkX"><img src="https://i.ibb.co/zfw4xnT/violin.png" alt="violin" border="0"></a>
+*__Sample Analysis outputs__*
+Pie chart<a href="https://imgbb.com/"><img src="https://i.ibb.co/xDgLpBX/pie.png" alt="pie" border="0"></a>
+Violin plot<a href="https://ibb.co/LpfZRkX"><img src="https://i.ibb.co/zfw4xnT/violin.png" alt="violin" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/VCRJnWJ/kde.png" alt="kde" border="0"></a>
 <a href="https://ibb.co/2tnpqXg"><img src="https://i.ibb.co/bBWG1pz/boxplot.png" alt="boxplot" border="0"></a>
