@@ -20,4 +20,4 @@ containing 5268 airplane crashes with fatalities of 105k is used for this projec
 *Matplotlib
 *Seaborn
 
-<a href="https://ibb.co/ncVtk04"><img src="https://ibb.co/Y3dQz1P" alt="s-png" border="2"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/xDgLpBX/pie.png" alt="pie" border="0"></a>
